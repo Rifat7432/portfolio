@@ -1,0 +1,60 @@
+[
+  {
+    "img": "https://i.ibb.co/2Wvtfs8/Screenshot-2022-12-10-213118.png",
+    "img1": "https://i.ibb.co/ckNvJkV/Screenshot-2022-12-12-180710.png",
+    "img2": "https://i.ibb.co/wrmM15Q/Screenshot-2022-12-12-180736.png",
+    "Detail":"MOBILE HAZZAR is a websit where buyer can buy a used mobile amd seller can sell his/hsr used mobile",
+    "LiveSite": "https://mobilebazzardotcom.web.app/",
+    "Overview": "User can signup and login by email password and google seller can Add his/hes product, seller can see all products,seller can advertise thi/her products,buyer can see all his/her booked products,buyer can book a product,buyer can pay his/her booked product,User can add a new service,admin can see and delete a buyer,saller and reported product",
+    "ClintSite": "https://github.com/Rifat7432/mobile-bazzar",
+    "ServerSite": "https://github.com/Rifat7432/mobile-bazzar-server",
+    "name": "MOBILE BAZZAR",
+    "Technology": [
+      "HTML5",
+      "CSS3",
+      "React.js",
+      "Tailwind",
+      "DaisyUI",
+      "Node.js",
+      "MongoDB",
+      "Firebase",
+      "Express.js",
+      "JWT"
+    ]
+  },
+  {
+    "img": "https://i.ibb.co/255ksX8/Screenshot-2022-12-10-213202.png",
+    "img1": "https://i.ibb.co/mbq0xHw/Screenshot-2022-12-12-180554.png",
+    "img2": "https://i.ibb.co/F07kXyR/Screenshot-2022-12-12-180617.png",
+    "LiveSite": "https://photo-prince.web.app/",
+    "Detail":"PHOTO PRINCT is a web site where user can hire a photographer your ",
+    "Overview": "User can signup and login by email password and google User can Add his/hes review,User can see one products all revuew, User can edit his/her review, User can delete his/her review, User can add a new service",
+    "ClintSite": "https://github.com/Rifat7432/photo-prince",
+    "ServerSite": "https://github.com/Rifat7432/photo-prince-server",
+    "name": "PHOTO PRINCE",
+    "Technology": [
+      "HTML5",
+      "CSS3",
+      "React.js",
+      "Tailwind",
+      "DaisyUI",
+      "Node.js",
+      "MongoDB",
+      "Firebase",
+      "Express.js",
+      "JWT"
+    ]
+  },
+  {
+    "img": "https://i.ibb.co/ZSsGmzR/Screenshot-2022-12-10-213240.png",
+    "img1": "https://i.ibb.co/vzrWMM7/Screenshot-2022-12-12-180816.png",
+    "img2": "https://i.ibb.co/pZHTPV5/Screenshot-2022-12-12-180856.png",
+    "LiveSite": "https://code-academy-7c314.web.app/",
+    "Detail":"Code academy is a site where we can get tutorial about programing ",
+    "Overview": "Users can signup and login by email password and google,Users can navigate many routes ,Loading data from server",
+    "ClintSite": "https://github.com/Rifat7432/code-academy",
+    "ServerSite": "https://github.com/Rifat7432/code-academy-server",
+    "name": "Code Academy",
+    "Technology": ["HTML5", "CSS3", "React.js", "Tailwind", "DaisyUI"]
+  }
+]

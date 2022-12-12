@@ -1,0 +1,41 @@
+.sutterCard {
+}
+.sutter {
+  height: 0%;
+  background: rgba(0, 0, 0, 0.455);
+  opacity: 0;
+  animation-name: rifat1;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: 1;
+}
+.sutterCard:hover .sutter {
+  display: block;
+  height: 100%;
+  animation-name: rifat;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: 1;
+}
+@keyframes rifat {
+  0% {
+    height: 0;
+    opacity: 0.01;
+  }
+
+  100% {
+    height: 224px;
+    opacity: 1;
+  }
+}
+@keyframes rifat1 {
+  0% {
+    height: 224px;
+    opacity: 0.9;
+  }
+
+  100% {
+    height: 0;
+    opacity: 0;
+  }
+}
